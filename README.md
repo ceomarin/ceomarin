@@ -1,4 +1,4 @@
-# 🖖Hola, soy César Marín
+# 🖖Hello World, soy César Marín ✌️
 
 > Soy analista programador de profesión, durante mi formación académica aprendí todo lo que conlleva al desarrollo de proyectos informáticos globales para dar solución a problemáticas de acuerdo con las necesidades del negocio, actualmente decidí añadir a mis conocimientos el lenguaje Python y su framework Django por medio de la metodología de estudio Bootcamp.
 > 
