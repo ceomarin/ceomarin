@@ -58,7 +58,7 @@ Lectura | Escritura -  Básico
 
 # 📚 Educación
 
-## Python Full Stack
+## Bootcamp Python Full Stack
 
 *2021/11 - 2022/04*
 
