@@ -60,7 +60,7 @@ Lectura | Escritura -  Básico
 
 ## Python Full Stack
 
-*2021/11 - 2022/05*
+*2021/11 - 2022/04*
 
 Edutecno - Santiago, Región Metropolitana, Chile.
 
