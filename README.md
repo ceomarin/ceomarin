@@ -1,7 +1,10 @@
 # 🖖Hello World, soy César Marín ✌️
 
-> Soy analista programador de profesión, durante mi formación académica aprendí todo lo que conlleva al desarrollo de proyectos informáticos globales para dar solución a problemáticas de acuerdo con las necesidades del negocio, actualmente decidí añadir a mis conocimientos el lenguaje Python y su framework Django por medio de la metodología de estudio Bootcamp.
-> 
+Analista programador, recién egresado de Bootcamp Full Stack Python, con más de 4 años de experiencia laboral en áreas de servicios financieros, atención de clientes y más de 3 años en proyectos eléctricos de baja tensión.
+
+Apasionado por el conocimiento de nuevas tecnologías y cómo estas benefician a la sociedad.
+
+Actualmente quiero desempeñarme como desarrollador full stack y colaborar con equipos multidisciplinarios en los desafíos que se presenten.
 
 # ☎️ Información de Contacto
 
