@@ -14,16 +14,6 @@ Actualmente quiero desempeñarme como desarrollador full stack y colaborar con e
 
 ---
 
-# **👩🏻‍💻** Experiencia Laboral
-
-## Preparador ECAMP Diurno
-
-***Edutecno**, Chile – (2021/12 - 2022/05)*
-
-Apoyo a relatores y ayudantes realizando nivelación en tecnologías como HTML, CSS, JavaScript, Bootstrap, Git , Python y Django durante el programa Python Full Stack.
-
----
-
 # 🛠 Habilidades
 
 ## 💻 Tecnologías
@@ -35,6 +25,8 @@ Apoyo a relatores y ayudantes realizando nivelación en tecnologías como HTML, 
 ### JavaScript     ⭐️⭐️
 
 ### Python          ⭐️⭐️⭐️
+
+### Java            ⭐️⭐️
 
 ### SQL               ⭐️⭐️
 
