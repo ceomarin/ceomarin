@@ -11,27 +11,3 @@ Actualmente quiero desempeñarme como desarrollador full stack y colaborar con e
 📧 cmarin.ing@gmail.com
 
 🔗 www.linkedin.com/in/cesar-marin
-
----
-
-# 🛠 Habilidades
-
-## 💻 Tecnologías
-
-### HTML           ⭐️⭐️⭐️⭐️
-
-### CSS               ⭐️⭐️
-
-### JavaScript     ⭐️⭐️
-
-### Python          ⭐️⭐️⭐️
-
-### Java            ⭐️⭐️
-
-### SQL               ⭐️⭐️
-
-### GIT               ⭐️⭐️⭐️
-
-### Linux             ⭐️⭐️⭐️
-
----
