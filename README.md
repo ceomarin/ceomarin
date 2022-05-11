@@ -35,29 +35,3 @@ Actualmente quiero desempeñarme como desarrollador full stack y colaborar con e
 ### Linux             ⭐️⭐️⭐️
 
 ---
-
-## 🗣 Lenguajes
-
-### Español 🇪🇸 🇨🇱
-
-Hablante Nativo
-
-### Inglés 🇺🇸
-
-Lectura | Escritura -  Básico
-
----
-
-# 📚 Educación
-
-## Bootcamp Python Full Stack
-
-*2021/11 - 2022/04*
-
-Edutecno - Santiago, Región Metropolitana, Chile.
-
-## Técnico Superior Analista Programador
-
-*2018 - 2020*
-
-CFT INACAP- Renca, Región Metropolitana, Chile.
