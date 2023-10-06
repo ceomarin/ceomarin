@@ -1,5 +1,5 @@
 # 🖖Hello World, soy César Marín ✌️
 
-Analista programador con cualidades como la autogestión, búsqueda de logros, adaptabilidad a distintos entornos de trabajo, buen manejo de las relaciones interpersonales, participando con equipos multidisciplinarios hace ya un año. Anteriormente desempeñé trabajos relacionados con otras áreas como ejecutivo de servicios financieros y otros.
+Soy un analista programador con habilidades en el desarrollo full stack, tengo conocimientos en tecnologías como Java, JavaScript y Python. Me destaco por mi autogestión, búsqueda de logros y adaptabilidad a diversos entornos de trabajo. Además, tengo excelentes habilidades en relaciones interpersonales, siendo un colaborador participativo.
 
 Apasionado por el conocimiento de nuevas tecnologías y cómo estas benefician a la sociedad.
